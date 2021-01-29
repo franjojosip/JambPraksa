@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Jamb</string>
+    <string name="check_jamb">Provjeri Jamb</string>
+    <string name="check_poker">Provjeri Poker</string>
+    <string name="check_straight">Provjeri Skalu</string>
+    <string name="play_jamb">Igraj</string>
+    <string name="back">Nazad</string>
+    <string name="roll_a_dice">Baci kocke</string>
+    <string name="dice_image">Slika kocke</string>
+    <string name="down">Dolje</string>
+    <string name="up">Gore</string>
+    <string name="both">Obostrano</string>
+    <string name="one">1</string>
+    <string name="three">3</string>
+    <string name="two">2</string>
+    <string name="four">4</string>
+    <string name="five">5</string>
+    <string name="six">6</string>
+    <string name="min">Min</string>
+    <string name="max">Max</string>
+    <string name="sum">Suma</string>
+    <string name="difference">Max-Min * broj jedinica</string>
+    <string name="straight">Skala</string>
+    <string name="full">Full</string>
+    <string name="poker">Poker</string>
+    <string name="total">Ukupno</string>
+    <string name="checkSheet">Provjer listić</string>
+    <string name="number_of_throws">Broj bacanja: %d</string>
+    <string name="roll_dices">Baci kockice za početak igre</string>
+    <string name="max_num_of_throws">Maksimalan broj bacanja: 3. Upišite rezultat prije ponovnog bacanja.</string>
+    <string name="condition_true">%s je!</string>
+    <string name="condition_false">Nije %s!</string>
+    <string name="lock_message">Kocka %s je zaključana.</string>
+    <string name="unlock_message">Kocka %s je otključana.</string>
+    <string name="lock_unlock_message">Klikni na kocku za otključavanje/zaključavanje.</string>
+    <string name="enter_value_question">Želite li upisati ovu vrijednost?</string>
+    <string name="yes">Da</string>
+    <string name="no">Ne</string>
+    <string name="throw_dices_before_insert">Bacite ponovno kocke</string>
+    <string name="required_listener">Implementiraj %s prije upotrebe ovog fragmenta</string>
+</resources>
